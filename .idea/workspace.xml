@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9b73cbc-3fde-4c82-adbf-f7b8dd595cfc" name="Changes" comment="App">
+      <change beforePath="$PROJECT_DIR$/css/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/Main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Surreal-Earth.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/images/Surreal-Earth.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/FormValidation.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/FormValidation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Map.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/Map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/firebase.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="281eEa01QmhUFwBNRJZbvx76Ikc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2021.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kmpst\PhpstormProjects\semestral_KAJ\b0b39kaj_semestalni-prace\app" />
+      <recent name="C:\Users\kmpst\PhpstormProjects\semestral_KAJ\images" />
+      <recent name="C:\Users\kmpst\PhpstormProjects\semestral_KAJ\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9b73cbc-3fde-4c82-adbf-f7b8dd595cfc" name="Changes" comment="" />
+      <created>1650388407561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650388407561</updated>
+      <workItem from="1650388408706" duration="900000" />
+      <workItem from="1653125417585" duration="3052000" />
+      <workItem from="1653208583673" duration="465000" />
+      <workItem from="1653209213026" duration="6625000" />
+      <workItem from="1653217858851" duration="5331000" />
+      <workItem from="1653232713395" duration="4374000" />
+      <workItem from="1653244272143" duration="2625000" />
+      <workItem from="1653407555509" duration="6892000" />
+      <workItem from="1653416543962" duration="4794000" />
+      <workItem from="1653464949600" duration="9713000" />
+      <workItem from="1653475350319" duration="411000" />
+      <workItem from="1653475783241" duration="1108000" />
+      <workItem from="1653476951402" duration="2564000" />
+      <workItem from="1653487273984" duration="9569000" />
+      <workItem from="1653640752461" duration="22153000" />
+      <workItem from="1653851524272" duration="477000" />
+      <workItem from="1653852720879" duration="297000" />
+    </task>
+    <task id="LOCAL-00001" summary="App">
+      <created>1653852851271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653852851271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="App" />
+    <option name="LAST_COMMIT_MESSAGE" value="App" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
