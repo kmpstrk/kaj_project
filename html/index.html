@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Maps</title>
+
+    <!--firebase database -->
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
+
+    <script type="module" src="../js/firebase.js"></script>
+    <link rel="stylesheet" href="../css/Main.css" />
+
+    <!--leaflet framework-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+          integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+          crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+            integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+            crossorigin=""></script>
+</head>
+<body>
+
+
+<div id = "content">
+
+    <div id="map"></div>
+
+    <div id="formContainer">
+
+        <div id="form" >
+
+            <p id="header">Welcome to our maps! Click on the map to add marker</p>
+
+            <p class="hiddenWhenNotClicked"> Coordinates: </p>
+            <p class="hiddenWhenNotClicked" id="lat">0, </p>
+            <p class="hiddenWhenNotClicked" id="lng"> 0</p>
+
+            <label for="description">
+                <textarea class="hiddenWhenNotClicked" id = "description"
+                          cols="50" rows="5" name="description"
+                          placeholder="Add description here..."></textarea>
+            </label>
+            <p id="errorMsg">Fill the description and choose coordinates please!</p>
+
+            <button class="hiddenWhenNotClicked" id="formButton">Add</button>
+
+            <div id="earthAnimation" class="hiddenWhenNotClicked"><div></div></div>
+        </div>
+    </div>
+</div>
+
+<script src="../js/Map.js"></script>
+<script src="../js/FormValidation.js"></script>
+
+</body>
+</html>
