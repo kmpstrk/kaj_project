@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b73cbc-3fde-4c82-adbf-f7b8dd595cfc" name="Changes" comment="App">
-      <change beforePath="$PROJECT_DIR$/css/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/Main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Surreal-Earth.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/images/Surreal-Earth.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/FormValidation.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/FormValidation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Map.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/Map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/firebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.idea/semestral_KAJ.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/Main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/Surreal-Earth.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/FormValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/Map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/firebase.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +56,6 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\kmpst\PhpstormProjects\semestral_KAJ\b0b39kaj_semestalni-prace\app" />
       <recent name="C:\Users\kmpst\PhpstormProjects\semestral_KAJ\images" />
       <recent name="C:\Users\kmpst\PhpstormProjects\semestral_KAJ\resources" />
     </key>
@@ -104,6 +109,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="App" />
