@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9b73cbc-3fde-4c82-adbf-f7b8dd595cfc" name="Changes" comment="App">
+    <list default="true" id="f9b73cbc-3fde-4c82-adbf-f7b8dd595cfc" name="Changes" comment="Structural issue">
+      <change beforePath="$PROJECT_DIR$/.gitlab-ci.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/semestral_KAJ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/css/Main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/html/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/Surreal-Earth.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/FormValidation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/Map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/firebase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Surreal-Earth.svg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Surreal-Earth.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/FormValidation.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/FormValidation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/firebase.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../semestral_KAJ — копия" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -56,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kmpst\PhpstormProjects\semestral_KAJ\b0b39kaj_semestalni-prace\images" />
       <recent name="C:\Users\kmpst\PhpstormProjects\semestral_KAJ\images" />
       <recent name="C:\Users\kmpst\PhpstormProjects\semestral_KAJ\resources" />
     </key>
@@ -85,6 +81,7 @@
       <workItem from="1653640752461" duration="22153000" />
       <workItem from="1653851524272" duration="477000" />
       <workItem from="1653852720879" duration="297000" />
+      <workItem from="1654002706039" duration="2258000" />
     </task>
     <task id="LOCAL-00001" summary="App">
       <created>1653852851271</created>
@@ -93,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653852851271</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Structural issue">
+      <created>1653940103294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653940103294</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +117,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="App" />
-    <option name="LAST_COMMIT_MESSAGE" value="App" />
+    <MESSAGE value="Structural issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Structural issue" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -32,7 +32,6 @@ function validateCoords(e){
         && lng.textContent >= -169.08998338052322
         && lng.textContent <= 193.2938908271396
         && document.getElementById("lat").textContent != null){
-        e.preventDefault();
         return true;
     }
 
@@ -50,7 +49,9 @@ document.getElementById("formButton")
     .addEventListener("click", function (e){
         if (validateDescription(e)){
             if (validateCoords(e)){
-                document. location. reload();
+                let audio = new Audio('resources/audio.mp3');
+                audio.play();
+                setTimeout(function(){document. location. reload()}, 1000)
             }
         } else {errorMsg.style.visibility = "visible"; }
 

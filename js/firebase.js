@@ -25,7 +25,8 @@ const db = getFirestore(app);
 // Setting event listener on button "Add" (add marker on the map)
 let submitBtn = document.getElementById("formButton");
 submitBtn.addEventListener("click", writeMarkerData);
-function writeMarkerData() {
+function writeMarkerData(e) {
+    e.preventDefault();
     // Set variables with data from screen (coordinates and description of the marker)
     let lat = document.getElementById("lat").textContent;
     let lng = document.getElementById("lng").textContent;

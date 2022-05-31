@@ -96,7 +96,7 @@ textarea.hiddenWhenNotClicked:focus {
     width: 64px;
     height: 64px;
     margin:auto;
-    background: url("../images/Surreal-Earth.svg");
+    background: url("../resources/Surreal-Earth.svg");
     animation: earthAnimation 8s cubic-bezier(0, 0.2, 0.8, 1) infinite;
 }
 @keyframes earthAnimation {
@@ -104,18 +104,29 @@ textarea.hiddenWhenNotClicked:focus {
         animation-timing-function: cubic-bezier(0.5, 0, 1, 0.5);
     }
     0% {
+        -webkit-transform: rotateY(0deg);
+        -moz-transform: rotateY(0deg);
+        -ms-transform: rotateY(0deg);
+        -o-transform: rotateY(0deg);
         transform: rotateY(0deg);
+
     }
     50% {
+        -webkit-transform: rotateY(1800deg);
+        -moz-transform: rotateY(1800deg);
+        -ms-transform: rotateY(1800deg);
+        -o-transform: rotateY(1800deg);
         transform: rotateY(1800deg);
         animation-timing-function: cubic-bezier(0, 0.5, 0.5, 1);
     }
     100% {
+        -webkit-transform: rotateY(3600deg);
+        -moz-transform: rotateY(3600deg);
+        -ms-transform: rotateY(3600deg);
+        -o-transform: rotateY(3600deg);
         transform: rotateY(3600deg);
     }
 }
-
-
 
 @media only screen and (max-width: 830px) {
 
